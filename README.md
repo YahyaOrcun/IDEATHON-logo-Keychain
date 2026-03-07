@@ -15,6 +15,7 @@ A simple and smooth infinity-shaped keychain design created for 3D printing.
 
 ## Preview
 <img width="471" height="411" alt="preview1" src="https://github.com/user-attachments/assets/442a8d39-aa54-4759-aa02-637cd906c96e" />
+
 ![preview2](https://github.com/user-attachments/assets/df17b47a-cd49-44c4-a253-7714f37e05cf)
 
 ## Printing Recommendations
