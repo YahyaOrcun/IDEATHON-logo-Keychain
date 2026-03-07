@@ -14,8 +14,8 @@ A simple and smooth infinity-shaped keychain design created for 3D printing.
 - `files/infinity_keychain.3mf` → editable/print project file (if available)
 
 ## Preview
-![Preview 1](images/preview1.png)
-![Preview 2](images/preview2.png)
+![preview2](https://github.com/user-attachments/assets/df17b47a-cd49-44c4-a253-7714f37e05cf)
+<img width="471" height="411" alt="preview1" src="https://github.com/user-attachments/assets/442a8d39-aa54-4759-aa02-637cd906c96e" />
 
 ## Printing Recommendations
 - Layer height: 0.2 mm
@@ -29,5 +29,5 @@ This design was prepared as a minimal and aesthetic infinity keychain model.
 It can be resized depending on your printer and usage preference.
 
 ## License
-Open-source for personal and educational use.![preview2](https://github.com/user-attachments/assets/df17b47a-cd49-44c4-a253-7714f37e05cf)
-<img width="471" height="411" alt="preview1" src="https://github.com/user-attachments/assets/442a8d39-aa54-4759-aa02-637cd906c96e" />
+Open-source for personal and educational use.
+
