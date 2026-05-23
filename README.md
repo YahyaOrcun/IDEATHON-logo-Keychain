@@ -1,6 +1,7 @@
 # IDEATHON Logo Keychain
 
-This project is a 3D-printable keychain design inspired by the **IDEATHON logo**.  
+This project is a 3D-printable keychain design inspired by the **IDEATHON logo**.
+
 The model was created as a simple, compact, and printable product concept that can be used as an event souvenir, promotional item, or personal 3D printing project.
 
 ---
